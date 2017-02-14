@@ -1,0 +1,15 @@
+name: Test
+main: com.game.OnLoad
+author: Zouhair HAJJI
+version: 1.0
+description: A test plugin
+
+
+commands: 
+    heal : 
+        usage: /<command>
+        description: heal command
+        
+    feed : 
+        usage: /<command>
+        description: feed Command
